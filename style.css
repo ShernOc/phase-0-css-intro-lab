@@ -21,7 +21,7 @@ div {
   color: red;
 }
 
-/* Class selector to select elements containing the class 'perspective-questions' */
+/* Class selector to select elements containing the class with the that starts with period (.).'perspective-questions' */
 .perspective-questions {
   /* Your code here! */
   font-style: italic;
